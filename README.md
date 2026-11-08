@@ -39,13 +39,6 @@ A dashboard foi gerada com o **Claude** (assistente de IA da Anthropic).  Escolh
 
 **Visual:** fundo escuro, vermelho Porsche para os destaques e dourado para o gráfico de anos, com fonte sem serifa e títulos em caixa alta espaçada. Os gráficos são desenhados com HTML e CSS puros, sem bibliotecas externas.
 
-## Como publicar no GitHub Pages
-
-1. Crie um repositório **público** na sua conta, com nome em minúsculas e sem acento (por exemplo, `dashboard-porsche`).
-2. Suba o `index.html` e este `README.md`.
-3. Vá em **Settings → Pages**, escolha a branch `main` e a pasta `/ (root)` e salve.
-4. Em alguns minutos o endereço estará no ar. Copie-o para o topo deste README.
-
 ## Evidências
 
 Print da dashboard e um exemplo de filtro aplicado em `images/`.
