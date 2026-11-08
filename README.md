@@ -48,4 +48,4 @@ A dashboard foi gerada com o **Claude** (assistente de IA da Anthropic).  Escolh
 
 ## Evidências
 
-Print da dashboard e um exemplo de filtro aplicado em `images/` (por exemplo, `dashboard-geral.png` e `filtro-911-wire-transfer.png`).
+Print da dashboard e um exemplo de filtro aplicado em `images/`.
